@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560119017 source:d:\crepos\kalkulatore\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
